@@ -29,6 +29,7 @@ public class Tank {
 
     public void printPosition() {
         System.out.println("The Tank is at " + x + ", " + y + " now.");
+        System.out.println("The Tank is at");
     }
 
     public void goBackward(int i) {
